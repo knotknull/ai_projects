@@ -1,0 +1,3 @@
+[submodule "Ollama_Getting_Started"]
+	path = Ollama_Getting_Started
+	url = https://github.com/knotknull/Ollama_Getting_Started.git
